@@ -1,0 +1,12 @@
+package sr_developer;
+import jr_developer.*;
+ public class jrc {
+
+	public static void main(String[] args)
+	{
+		
+		
+		KIA_Alrbags obj=new KIA_Alrbags();
+		KIA_Alrbags.disp();
+	}
+}
