@@ -1,0 +1,26 @@
+package day;
+
+public class tra {
+	public static void main(String[] args) {
+		 String d = "maharashtra";
+		 System.out.println(d.endsWith("tra")); // true
+
+		 System.out.println(d.endsWith("ta"));  //false
+
+		 System.out.println(d.endsWith("ra"));
+
+		 System.out.println(d.endsWith("s")); 
+
+		 String s = "ranjangaon";
+		 System.out.println(s.endsWith("on")); // true
+
+		 System.out.println(s.endsWith("a"));  //false
+
+
+
+		 //System.out.println(s.startWith("ran")); 
+
+
+	}
+
+}
